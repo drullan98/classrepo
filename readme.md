@@ -3,3 +3,5 @@
 # # # I'm still learning how to use this software!
 # I added a file called AdditionVisualization.pdf 
 # # this file explains how to add 2 numbers together 
+# # # I added an additional file called Python.png
+# # # # # this file explains how to write a simple code in Python
